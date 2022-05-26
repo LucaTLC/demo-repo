@@ -4,6 +4,12 @@ Some Description
 
 .md stands for "Mark Down"
 
-Some Modification
+## Subheader
 
-Some other Modification
+Watch tutorial on YouTube
+
+## Local Development
+
+1. open index.html in your browser
+
+
